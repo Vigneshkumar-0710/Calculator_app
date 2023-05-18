@@ -10,7 +10,7 @@
 
 ### Links
 
-- [Live Site](https://calculator-app-vigneshkumar.vercel.app/)
+- [Live Site](https://calculator-app-vigne)
 
 
 ### The challenge
